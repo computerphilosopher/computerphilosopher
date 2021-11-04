@@ -9,13 +9,13 @@
 
 ### ARCUS
 
-[arcus-memcached](https://github.com/naver/arcus-memcached/commits?author=computerphilosopher)
-
-[arcus-docker](https://github.com/jam2in/arcus-docker/commits?author=computerphilosopher)
+- [arcus-memcached](https://github.com/naver/arcus-memcached/commits?author=computerphilosopher)
+- [arcus-docker](https://github.com/jam2in/arcus-docker/commits?author=computerphilosopher)
 
 ### Cloud Barista
 
-[cb-tumblebug](https://github.com/cloud-barista/cb-tumblebug/commits?author=computerphilosopher)
+- [cb-tumblebug](https://github.com/cloud-barista/cb-tumblebug/commits?author=computerphilosopher)
+- [cb-spider](https://github.com/cloud-barista/cb-spider/commits?author=computerphilosopher)
 
 ### Misc
 
