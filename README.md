@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3242)](https://solved.ac/abc3242) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12407457?logo=stac)
 
-## Carrer
+## Career
 
 Jam2in: 2019.07 ~ 2022.07
 WhatapLabs: 2022.07 ~
