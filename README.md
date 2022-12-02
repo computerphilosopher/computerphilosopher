@@ -1,16 +1,7 @@
-### Hi there 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=computerphilosopher&count_private=true&show_icons=true&theme=dracula)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=skynet)](https://velog.io/@skynet)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3242)](https://solved.ac/abc3242) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12407457?logo=stac)
-
 ## Career
 
-Jam2in: 2019.07 ~ 2022.07
-WhatapLabs: 2022.07 ~
+- Jam2in: 2019.07 ~ 2022.07
+- WhatapLabs: 2022.07 ~
 
 ## Contribution
 
@@ -27,3 +18,12 @@ WhatapLabs: 2022.07 ~
 ### Misc
 
 [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie/commits?author=computerphilosopher)
+
+## Badges
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=computerphilosopher&count_private=true&show_icons=true&theme=dracula)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=skynet)](https://velog.io/@skynet)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3242)](https://solved.ac/abc3242) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12407457?logo=stac)
